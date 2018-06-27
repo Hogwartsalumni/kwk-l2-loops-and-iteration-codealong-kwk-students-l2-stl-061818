@@ -6,6 +6,7 @@ function printBadges(name) {
   for (let i = 0; i < employeeName.length; i++) {
     console.log(printBadges);
   }
+  Object.assign()
 }
 
 
